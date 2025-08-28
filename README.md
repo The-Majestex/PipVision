@@ -1,4 +1,4 @@
-# PipVision 🔮
+# PipVision 
 
 **Forex trade analyzer with AI-powered insights for retail traders.**
 
@@ -7,7 +7,7 @@ This is the **Lite MVP** of a bigger project (Majesty X), aiming to build Africa
 
 ---
 
-## 🚀 Features
+##  Features
 - Trade calculator (Risk %, Stop Loss, Take Profit)
 - Profit/Loss projections
 - Simple forex chart visualizations
@@ -16,9 +16,17 @@ This is the **Lite MVP** of a bigger project (Majesty X), aiming to build Africa
 
 ---
 
-## 📦 Installation
+##  Installation
 
 1. Clone this repo:
    ```bash
    git clone https://github.com/YOUR-USERNAME/PipVision.git
    cd PipVision
+
+
+
+## Day 2 of building PipVision
+- Installed yfinance
+- It can fetch EURUSD data in 15m intervals
+- Next Step is visualize with charts
+
