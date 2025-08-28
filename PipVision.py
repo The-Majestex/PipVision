@@ -6,4 +6,5 @@ print("EUR/USD 15m data:")
 print(data.tail()) 
 
 import matplotlib.pyplot as plt
-data('Close').plot(title="EUR/USD price")
+data['Close'].plot(title="EUR/USD price")
+plt.show()
